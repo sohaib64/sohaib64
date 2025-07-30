@@ -38,7 +38,7 @@ Check out my latest work here:
 
 📧 sohaibshahab11@gmail.com
 
-![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohaibshahab&show_icons=true)
+![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohaib64&show_icons=true)
 
 ---
 
