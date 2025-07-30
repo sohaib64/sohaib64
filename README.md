@@ -38,6 +38,8 @@ Check out my latest work here:
 
 📧 sohaibshahab11@gmail.com
 
+![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohaibshahab&show_icons=true)
+
 ---
 
 Thanks for stopping by! 😊
