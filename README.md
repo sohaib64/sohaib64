@@ -32,4 +32,4 @@
 ---
 
 ## 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sufiyani&layout=compact&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohaib64&layout=compact&theme=github_dark&hide_border=true)
