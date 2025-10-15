@@ -4,9 +4,11 @@
 
 
 - 🌱 I’m currently learning: **Node.js, Express.js, MongoDB**
-- 💼 Check out my portfolio at: [ https://personal-portfolio-ten-tan.vercel.app/](https://personal-portfolio-ten-tan.vercel.app/)
+- 💼 Check out my portfolio at: [https://sohaibshahab-portfolio.vercel.app/](https://sohaibshahab-portfolio.vercel.app/)
 - 💼 Some of my projects:  
-  👉 [Weather App](https://github.com/sohaib64/Weather-Application)  
+  👉 [Indoor Sports Management](https://github.com/sohaib64/IndoorSportsHub)
+  👉 [Student Portal](https://github.com/sohaib64/DevXcriptStudentPortal)
+  👉 [Real Estate Website](https://github.com/sohaib64/RealHome) 
 - 💬 Ask me about: **HTML, CSS, JavaScript, React.js, Bootstrap, Firebase**
 - 📫 Reach me at: **sohaibshahab11@gmail.com**
   
