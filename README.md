@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: **Node.js, Express.js, MongoDB**
 - 💼 Check out my portfolio at: [https://sohaibshahab-portfolio.vercel.app/](https://sohaibshahab-portfolio.vercel.app/)
 - 💼 Some of my projects:  
-  👉 [Indoor Sports Management](https://github.com/sohaib64/IndoorSportsHub)
+  👉 [Indoor Sports Hub](https://github.com/sohaib64/IndoorSportsHub)
   
   👉 [Student Portal](https://github.com/sohaib64/DevXcriptStudentPortal)
   
